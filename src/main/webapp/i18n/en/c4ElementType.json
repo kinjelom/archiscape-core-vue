@@ -1,0 +1,13 @@
+{
+  "archiscapeCoreApp": {
+    "C4ElementType": {
+      "null": "",
+      "PERSON": "PERSON",
+      "SOFTWARE_SYSTEM": "SOFTWARE_SYSTEM",
+      "APP_CONTAINER": "APP_CONTAINER",
+      "SVC_CONTAINER": "SVC_CONTAINER",
+      "VIEW": "VIEW",
+      "RELATIONSHIP": "RELATIONSHIP"
+    }
+  }
+}
